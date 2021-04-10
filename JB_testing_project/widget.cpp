@@ -52,7 +52,7 @@ void Widget::DoStuff(const QString &str) {
 
         qsizetype counter;
 
-
+        //Обработка словаря
         while (!in.atEnd()) {
             if(quitting) { dictionary.close(); return; }
 
