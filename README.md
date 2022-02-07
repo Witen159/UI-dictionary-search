@@ -1,3 +1,3 @@
-# UI_dictionary_search
+# UI dictionary search application
 
 Test task for the JetBrains summer internship.
